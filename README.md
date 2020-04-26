@@ -1,2 +1,2 @@
 # Highpoly-Src-Props
-Repository for CAP and high poly props
+Repository for high poly props
